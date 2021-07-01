@@ -95,3 +95,5 @@ const wordSearch = (letters, word) => {
 };
 
 module.exports = wordSearch;
+
+// pair programmed with Jacob Appleby
